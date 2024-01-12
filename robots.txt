@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://venthaul.github.io/al-folio/sitemap.xml
+Sitemap: https://venthaul.github.io/test_influenza//sitemap.xml
